@@ -1,2 +1,0 @@
-# reactAttributes
-Created with CodeSandbox
